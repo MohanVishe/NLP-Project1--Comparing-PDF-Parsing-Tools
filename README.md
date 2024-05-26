@@ -1,4 +1,4 @@
-# NLP-Project1--Comparing-PDF-Parsing-Tools\
+# NLP-Project1--Comparing-PDF-Parsing-Tools
 
 
 ## Extracting Text From PDFs
